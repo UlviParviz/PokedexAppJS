@@ -52,6 +52,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is developed and maintained by Ulvi Parvizoghlu.
 
 ---
-
-Please note that the application will initially load all Pokemon data before the search filter can be applied.
-```
