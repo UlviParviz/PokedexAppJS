@@ -7,7 +7,7 @@ This is a Pokedex web application written in JavaScript utilizing the Pokemon AP
 You can clone the repository using the following command:
 
 ```bash
-git clone https://github.com/UlviParvizoghlu/PokedexAppJS.git
+git clone https://github.com/UlviParviz/PokedexAppJS.git
 ```
 
 ## Live Demo
